@@ -1,0 +1,14 @@
+br/com/ericksontavares/config/validacao/ErroFormularioDTO.class
+br/com/ericksontavares/estudos/controller/form/TopicoForm.class
+br/com/ericksontavares/estudos/repository/TopicoRepository.class
+br/com/ericksontavares/estudos/modelo/StatusTopico.class
+br/com/ericksontavares/estudos/controller/TopicosController.class
+br/com/ericksontavares/estudos/repository/CursoRepository.class
+br/com/ericksontavares/estudos/controller/HelloController.class
+br/com/ericksontavares/estudos/modelo/Curso.class
+br/com/ericksontavares/estudos/modelo/Topico.class
+br/com/ericksontavares/estudos/controller/dto/TopicoDTO.class
+br/com/ericksontavares/estudos/EstudosApplication.class
+br/com/ericksontavares/config/validacao/ErroDeValidacaoHandler.class
+br/com/ericksontavares/estudos/modelo/Resposta.class
+br/com/ericksontavares/estudos/modelo/Usuario.class
